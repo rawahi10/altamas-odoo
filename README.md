@@ -1,0 +1,1 @@
+# altamas-odoo
